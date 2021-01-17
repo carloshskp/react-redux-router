@@ -1,6 +1,15 @@
 # react-router-redux-test
 This library replace @testing-library/react render with a new render wrapper to use components with router and redux and reexport all from @testing-library/react
 
+## How to install
+### Install with npm
+
+`npm i react-router-redux-test`
+
+### Install with yarn
+
+`yarn add react-router-redux-test`
+
 ## Examples
 
 Sample component using react-router-dom Link, usually this component throw an error, because depends on the react-router initialize.
